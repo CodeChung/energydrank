@@ -1,0 +1,22 @@
+{
+  "name": "EnergyDrank",
+  "version": "1.0.0",
+  "description": "My first-rate Nuxt.js project",
+  "author": "Chimp Chimperson",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "concurrent-transform": "^1.0.0",
+    "gulp": "^4.0.2",
+    "gulp-awspublish": "^4.1.1",
+    "gulp-cloudfront-invalidate-aws-publish": "^1.0.0"
+  }
+}
